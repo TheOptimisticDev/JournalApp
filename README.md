@@ -125,22 +125,30 @@ We welcome contributions! Please follow these steps:
 ## 📸 Screenshots
 
 ### 🏠 Home Screen  
-![Home Screen](/public/home-list.png)
+<div align="center">
+  <img src="/public/home-list.png" alt="Home Screen" width="300" />
+</div>
 
 ---
 
 ### 📓 Journals  
-![Journals Screen](/public/journals.png)
+<div align="center">
+  <img src="/public/journals.png" alt="Journals Screen" width="300" />
+</div>
 
 ---
 
 ### 👤 Profile  
-![Profile Screen](/public/profile.png)
+<div align="center">
+  <img src="/public/profile.png" alt="Profile Screen" width="300" />
+</div>
 
 ---
 
 ### 📝 Entry Modal  
-![Entry Modal](/public/entry.png)
+<div align="center">
+  <img src="/public/entry.png" alt="Entry Modal" width="300" />
+</div>
 
 
 ## Roadmap
