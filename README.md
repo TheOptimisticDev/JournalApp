@@ -124,10 +124,13 @@ We welcome contributions! Please follow these steps:
 
 ## Screenshots
 
-Home Screen ![App Preview](/public/chimp.png);
- ![App Preview](/public/chimp.png);
-  ![App Preview](/public/chimp.png);
-   ![App Preview](/public/chimp.png)
+Home Screen ![App Preview](/public/home-list.png)
+
+Journals ![App Preview](/public/journals.png);
+  
+Profile ![App Preview](/public/profile.png);
+
+Entry Modal ![App Preview](/public/entry.png)
 
 ## Roadmap
 
