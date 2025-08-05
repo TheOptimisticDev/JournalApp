@@ -1,6 +1,8 @@
-# Journal App - Ionic Framework
+# Journal App
 
-![App Preview](/public/chimp.png)
+<div align="center">
+  <img src="/public/chimp.png" alt="Journal App" />
+</div>
 
 ## Overview
 
