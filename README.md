@@ -129,25 +129,20 @@ We welcome contributions! Please follow these steps:
   <img src="/public/home-list.png" alt="Home Screen" width="300" />
 </div>
 
----
+### 📝 Entry Modal  
+<div align="center">
+  <img src="/public/entry.png" alt="Entry Modal" width="300" />
+</div>
 
 ### 📓 Journals  
 <div align="center">
   <img src="/public/journals.png" alt="Journals Screen" width="300" />
 </div>
 
----
 
 ### 👤 Profile  
 <div align="center">
   <img src="/public/profile.png" alt="Profile Screen" width="300" />
-</div>
-
----
-
-### 📝 Entry Modal  
-<div align="center">
-  <img src="/public/entry.png" alt="Entry Modal" width="300" />
 </div>
 
 
