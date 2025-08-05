@@ -1,6 +1,6 @@
 # Journal App - Ionic Framework
 
-![App Preview](./screenshots/app-preview.png)
+![App Preview](/public/chimp.png)
 
 ## Overview
 
@@ -63,6 +63,7 @@ The Journal App is a mobile application built with Ionic Framework that allows u
 ionic cap add android
 ionic cap sync android
 ionic cap open android
+```
 
 ### iOS
 
@@ -70,11 +71,13 @@ ionic cap open android
 ionic cap add ios
 ionic cap sync ios
 ionic cap open ios
+```
 
 ### Progressive Web App
 
 ```bash
 ionic build --prod
+```
 
 ## Project Structure
 
