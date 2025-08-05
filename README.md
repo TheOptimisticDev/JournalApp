@@ -122,15 +122,26 @@ We welcome contributions! Please follow these steps:
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Screenshots
+## 📸 Screenshots
 
-Home Screen ![App Preview](/public/home-list.png)
+### 🏠 Home Screen  
+![Home Screen](/public/home-list.png)
 
-Journals ![App Preview](/public/journals.png);
-  
-Profile ![App Preview](/public/profile.png);
+---
 
-Entry Modal ![App Preview](/public/entry.png)
+### 📓 Journals  
+![Journals Screen](/public/journals.png)
+
+---
+
+### 👤 Profile  
+![Profile Screen](/public/profile.png)
+
+---
+
+### 📝 Entry Modal  
+![Entry Modal](/public/entry.png)
+
 
 ## Roadmap
 
