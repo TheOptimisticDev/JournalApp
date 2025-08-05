@@ -81,6 +81,7 @@ ionic build --prod
 
 ## Project Structure
 
+```
 src/
 ├── assets/               # Static assets
 ├── components/           # Reusable components
@@ -94,6 +95,7 @@ src/
 │   └── storage/          # Data persistence
 ├── theme/                # Global styles
 └── utils/                # Utility functions
+```
 
 ## Configuration
 
@@ -122,8 +124,10 @@ We welcome contributions! Please follow these steps:
 
 ## Screenshots
 
-Home Screen	Entry Detail	Mood Selection
-https://./screenshots/home.png	https://./screenshots/detail.png	https://./screenshots/moods.png
+Home Screen ![App Preview](/public/chimp.png);
+ ![App Preview](/public/chimp.png);
+  ![App Preview](/public/chimp.png);
+   ![App Preview](/public/chimp.png)
 
 ## Roadmap
 
